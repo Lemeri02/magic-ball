@@ -3,12 +3,12 @@
 [![Build Status](https://img.shields.io/badge/version-1.0.0-red)](https://img.shields.io/badge/version-1.0.0-red)
 [![Size](https://img.shields.io/badge/Ruby-156%20kB-red)]()
 
-<h2 align="center">
+<h1 align="center">
   MAGIC 8 BALL
-</h2>
+</h1>
 
 <h4 align="center">
-  <img alt="MAGIC 8 BALL" src="magicball.png" width="150"/>
+  <img alt="MAGIC 8 BALL" src="src/magicball.png" width="150"/>
 </h4>
 
 ***Magic 8 ball*** (рус. магический шар 8) - игрушка, шуточный способ предсказывать будущее.
@@ -24,7 +24,7 @@
     $ ruby magic_ball.rb
 
 <p align="center">
-  <img width="600" src="mb.svg">
+  <img width="600" src="src/mb.svg">
 </p>
 
 ---
