@@ -3,12 +3,12 @@
 [![Build Status](https://img.shields.io/badge/version-1.0.0-red)](https://img.shields.io/badge/version-1.0.0-red)
 [![Size](https://img.shields.io/badge/Ruby-156%20kB-red)]()
 
-<h4 align="center">
+<h2 align="center">
   MAGIC 8 BALL
-</h4>
+</h2>
 
 <h4 align="center">
-  <img alt="MAGIC 8 BALL" src="magicball.png" width="200"/>
+  <img alt="MAGIC 8 BALL" src="magicball.png" width="150"/>
 </h4>
 
 ***Magic 8 ball*** (рус. магический шар 8) - игрушка, шуточный способ предсказывать будущее.
