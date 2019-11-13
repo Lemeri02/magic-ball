@@ -19,7 +19,7 @@
 
 ## Использование
 
-С установленным [Ruby](https://www.ruby-lang.org/en/downloads/), задайте вопрос и запустите скрипт
+С установленным [Ruby](https://www.ruby-lang.org/en/downloads/), задайте вопрос и запустите скрипт в терминале (Linux, MacOS) или в командной строке (Windows)
 
     $ ruby magic_ball.rb
 
