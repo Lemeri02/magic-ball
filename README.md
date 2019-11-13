@@ -24,7 +24,7 @@
     $ ruby magic_ball.rb
 
 <p align="center">
-  <img width="400" src="mb.svg">
+  <img width="600" height="400" src="mb.svg">
 </p>
 ---
 
