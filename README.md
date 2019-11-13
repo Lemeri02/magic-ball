@@ -23,11 +23,16 @@
 
     $ ruby magic_ball.rb
 
-<link rel="alternate" type="application/x-asciicast" href="/magic_ball.cast">
+<p align="center">
+  <img width="600" src="mb.svg">
+</p>
+---
 
 ## Смотрите также
 
 Информация в Wikipedia [`wiki`](https://ru.wikipedia.org/wiki/Magic_8_ball)
+
+---
 
 ## Лицензия
 
