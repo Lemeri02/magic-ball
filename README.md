@@ -1,5 +1,5 @@
 
-[![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
+[![License](https://img.shields.io/badge/license-MIT-red)](http://doge.mit-license.org)
 [![Build Status](https://img.shields.io/badge/version-1.0.0-red)](https://img.shields.io/badge/version-1.0.0-red)
 [![Size](https://img.shields.io/badge/Ruby-156%20kB-red)]()
 
